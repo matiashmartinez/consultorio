@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/consultorio">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="s" password="1234" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/consultorio?timezone=UTC" username="root"/>
+</Context>
